@@ -1,0 +1,14 @@
+.nombre {
+	margin-left: 100px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+
+th,
+td {
+	border: 1px solid green;
+	width: 20%;
+}
